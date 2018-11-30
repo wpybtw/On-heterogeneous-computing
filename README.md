@@ -3,6 +3,9 @@
 
 ## Heterogeneous computing model
 
+Amdahl's Law in the Multicore Era 10.1109/MC.2008.209 Hill and Marty
+
+
 Roofline: an insightful visual performance model for multicore architectures
 ```bib
 @article{williams2009roofline,
@@ -51,12 +54,20 @@ A open source reimplementation of Google's Tensor Processing Unit (TPU). [code](
 
 ## HLS and High-level HDL
 
-Flexible Intermediate Representation for RTL [firrtl](https://github.com/freechipsproject/firrtl)
 
 Plasticine A Reconfigurable Architecture For Parallel Patterns [code](https://github.com/gsneha26/plasticine)
 
+
 Chisel [code](https://chisel.eecs.berkeley.edu/)
+
 
 SpinalHDL [code](https://spinalhdl.github.io/SpinalDoc/)
 
+
 Spatial: A Language and Compiler for Application Accelerators [code](https://github.com/stanford-ppl/spatial-lang)
+
+
+Flexible Intermediate Representation for RTL [code](https://github.com/freechipsproject/firrtl)
+
+
+Yosys Open SYnthesis Suite [code](https://github.com/YosysHQ/yosys)
