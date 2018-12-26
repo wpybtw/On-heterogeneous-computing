@@ -1,6 +1,17 @@
 # On-heterogeneous-computing
 
 
+## Heterogeneous Compiler
+ 
+pytorch/glow [code](https://github.com/pytorch/glow)
+Compiler for Neural Network hardware accelerators
+
+Design of the Glow Intermediate Representation [code](https://github.com/pytorch/glow/blob/master/docs/IR.md)
+
+google/jax [code](https://github.com/google/jax)
+
+Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+
 ## Heterogeneous computing model
 
 Amdahl's Law in the Multicore Era 10.1109/MC.2008.209 Hill and Marty
@@ -52,7 +63,7 @@ LogCA: A high-level performance model for hardware accelerators
 A open source reimplementation of Google's Tensor Processing Unit (TPU). [code](https://github.com/UCSBarchlab/OpenTPU)
 
 
-## HLS and High-level HDL
+## HL-HLS and HL-HDL
 
 
 Plasticine A Reconfigurable Architecture For Parallel Patterns [code](https://github.com/gsneha26/plasticine)
@@ -67,7 +78,13 @@ SpinalHDL [code](https://spinalhdl.github.io/SpinalDoc/)
 Spatial: A Language and Compiler for Application Accelerators [code](https://github.com/stanford-ppl/spatial-lang)
 
 
-Flexible Intermediate Representation for RTL [code](https://github.com/freechipsproject/firrtl)
+Flexible Intermediate Representation for RTL [code](https://github.com/freechipsproject/firrtl) 
+
+[paper] Reusability is FIRRTL Ground: Hardware Construction Languages, Compiler Frameworks, and Transformations
 
 
 Yosys Open SYnthesis Suite [code](https://github.com/YosysHQ/yosys)
+
+
+##HLS
+Rapid Cycle-Accurate Simulator for High-Level Synthesis,FPGA'19
